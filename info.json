@@ -1,0 +1,487 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.exgiftcard.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 23023,
+            "children": [
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/ic-menu-white.svg",
+                    "path": "img/ic-menu-white.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/ic-close.svg",
+                    "path": "img/ic-close.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/pie-chart.svg",
+                    "path": "img/pie-chart.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/shield.svg",
+                    "path": "img/shield.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/line-chart.svg",
+                    "path": "img/line-chart.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/workflow.svg",
+                    "path": "img/workflow.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/home.svg",
+                    "path": "img/home.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/application.svg",
+                    "path": "img/application.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/multiple-shape.svg",
+                    "path": "img/multiple-shape.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/neutron.svg",
+                    "path": "img/neutron.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/like.svg",
+                    "path": "img/like.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/icons/checkmark-green-soft.svg",
+                    "path": "img/checkmark-green-soft.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/meeting.jpeg",
+                    "path": "img/meeting.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/meeting_2.jpeg",
+                    "path": "img/meeting_2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/pattern/desktop-pattern.svg",
+                    "path": "img/desktop-pattern.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/instagram.png",
+                    "path": "img/instagram.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/photos/1.png",
+                    "path": "img/1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/twitter.jpg",
+                    "path": "img/twitter.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/photos/2.png",
+                    "path": "img/2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.googletagmanager.com/gtag/js?id=UA-230139829-1",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/js/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 89501,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/js/popper.min.js",
+                    "path": "js/popper.min.js",
+                    "saved": true,
+                    "size": 21257,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js",
+                    "saved": true,
+                    "size": 62440,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/js/wow.min.js",
+                    "path": "js/wow.min.js",
+                    "saved": true,
+                    "size": 8155,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/js/index.js",
+                    "path": "js/index.js",
+                    "saved": true,
+                    "size": 266,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "saved": true,
+                    "size": 162017,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/css/all.min.css",
+                    "path": "css/all.min.css",
+                    "saved": true,
+                    "size": 59242,
+                    "children": [
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-brands-400.eot",
+                            "path": "fonts/fa-brands-400.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-brands-400.woff2",
+                            "path": "fonts/fa-brands-400.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-brands-400.woff",
+                            "path": "fonts/fa-brands-400.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-brands-400.ttf",
+                            "path": "fonts/fa-brands-400.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-brands-400.svg#fontawesome",
+                            "path": "img/fa-brands-400.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-regular-400.eot",
+                            "path": "fonts/fa-regular-400.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-regular-400.woff2",
+                            "path": "fonts/fa-regular-400.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-regular-400.woff",
+                            "path": "fonts/fa-regular-400.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-regular-400.ttf",
+                            "path": "fonts/fa-regular-400.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-regular-400.svg#fontawesome",
+                            "path": "img/fa-regular-400.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-solid-900.eot?#iefix",
+                            "path": "fonts/fa-solid-900.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-solid-900.woff2",
+                            "path": "fonts/fa-solid-900.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-solid-900.woff",
+                            "path": "fonts/fa-solid-900.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-solid-900.ttf",
+                            "path": "fonts/fa-solid-900.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/webfonts/fa-solid-900.svg#fontawesome",
+                            "path": "img/fa-solid-900.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/css/animate.css",
+                    "path": "css/animate.css",
+                    "saved": true,
+                    "size": 77907,
+                    "children": []
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/css/main.css",
+                    "path": "css/main.css",
+                    "saved": true,
+                    "size": 1347214,
+                    "children": [
+                        {
+                            "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/fonts/hkgrotesk/stylesheet.css",
+                            "path": "css/stylesheet.css",
+                            "saved": true,
+                            "size": 2358,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-4@2x.png",
+                            "path": "img/cover-4@2x.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-7@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-5@2x.png?b=2021-04-22",
+                            "path": "img/cover-5@2x.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/career/header-bg-left@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/career/header-bg-right@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/career/career-about-bg@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/career/career-wwa-bg@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-8@2x.png?b=2021-04-22",
+                            "path": "img/cover-8@2x.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-9@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-10@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-11@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-1@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-3@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-2@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/illustrations/bg-quote-insurance.svg",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-14@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/covers/cover-15@2x.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.exgiftcard.com/assets/images/icons/angle-down-solid.svg",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.exgiftcard.com/assets/images/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-exgiftcard-com-so5luupn",
+    "info": {
+        "remark": [],
+        "title": "Ex Gift Card: Sell Gift cards in Nigeria at the highest rate",
+        "domain": "www.exgiftcard.com",
+        "origin": "https://www.exgiftcard.com",
+        "ip": "172.67.197.51",
+        "main": "index.html",
+        "url": "https://www.exgiftcard.com/",
+        "totalSize": "1.85 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.exgiftcard.com/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://www.exgiftcard.com/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Mon, 04 Jul 2022 07:56:32 GMT",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Sat, 18 Jun 2022 04:56:34 GMT",
+                "vary": "Accept-Encoding",
+                "strict-transport-security": "max-age=31536000",
+                "cf-cache-status": "DYNAMIC",
+                "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=n1J2xFtcuSVUPQ1AbkIDgYh92LFFradpD9eG%2BPwqY5yzYnRpPaU%2FKtu%2BeRb4WuW3RKX1IZy5eBWoBcC6wSGhnumYyl6yf0o94rHD8aMHkTRCi0yF3q9hSoTJwTt%2F%2BBhuV0pZjyA%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "cf-ray": "72564e0a3f20af40-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        },
+        "time": {
+            "start": "2022-07-04T07:56:31.648Z",
+            "end": "2022-07-04T07:56:44.813Z"
+        }
+    },
+    "options": {
+        "url": "https://www.exgiftcard.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
